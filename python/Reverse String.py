@@ -1,5 +1,5 @@
 print("enter a text you want to reverse")
-txt = str(input())
-a=txt[::-1]
+txt1 = str(input())
+a=txt1[::-1]
 print("Reversed text is:")
 print(a)
